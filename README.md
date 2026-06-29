@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Jean Perrin
 
-<!--
-**MAIDUGU-jean1/MAIDUGU-jean1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## BuildWithJean 🚀
 
-Here are some ideas to get you started:
+🧠 No Limit In Mind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building software, sharing the journey.
+
+---
+
+### 👨‍💻 About Me
+
+I'm a Software Engineer from Cameroon passionate about building practical software solutions and continuously improving my craft.
+
+My focus is not on collecting technologies but on mastering problem solving, software engineering principles, and building products that people can use.
+
+I believe that skills are built through execution, not consumption.
+
+🚀 Learn By Doing.
