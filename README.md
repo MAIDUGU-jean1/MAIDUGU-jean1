@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=3399FF&center=true&vCenter=true&width=900&lines=Software+Engineer;BuildWithJean;Learn+By+Doing;No+Limit+In+Mind" />
+</p>
+
 # Hi 👋, I'm Jean Perrin
 
 ## BuildWithJean 🚀
