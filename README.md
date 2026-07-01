@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <b>🚀 Building software, sharing the journey.</b>
+  <b>Building software, sharing the journey.</b>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,50:43A047,100:1B5E20&height=170&section=header&text=🚀%20Learn%20By%20Doing%20•%20🧠%20No%20Limit%20In%20Mind&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,50:43A047,100:1B5E20&height=170&section=header&text=%20Learn%20By%20Doing%20•%20%20No%20Limit%20In%20Mind&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 ---
 
@@ -47,40 +47,6 @@ I'm **Jean Perrin**, a Software Engineer from **Cameroon 🇨🇲** passionate a
 
 Instead of chasing every new programming language, I focus on building a strong engineering foundation that allows me to learn and adapt to any technology.
 
-My goal is simple:
-
-- 🚀 Build software that creates impact.
-- 📚 Learn continuously.
-- 🌍 Share knowledge with others.
-- 💡 Transform ideas into products.
-
----
-
-## 🎯 My Philosophy
-
-> **"Great engineers are built through execution, not consumption."**
-
-Everything I build follows two principles:
-
-- 🚀 **Learn By Doing**
-- 🧠 **No Limit In Mind**
-
----
-
-# 🚧 Current Mission
-
-Currently building **StudentOS**, a digital companion designed to support students throughout their university journey from admission to graduation.
-
-### Current Focus
-
-- 📱 React Native
-- ⚙ Laravel API
-- ☁ Deployment
-- 🐧 Linux
-- 🏗 Software Engineering
-- 🧩 System Design
-
----
 
 # 📊 GitHub Analytics
 
@@ -98,31 +64,13 @@ Currently building **StudentOS**, a digital companion designed to support studen
 
 </p>
 
----
-
-# 🛠 Tech Stack
-
 <p align="center">
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</p>
-
----
-
-<p align="center">
-
-### 🚀 BuildWithJean
+### BuildWithJean
 
 ### Learn By Doing
 
-### 🧠 No Limit In Mind 
+### No Limit In Mind 
 
 *"Building software, sharing the journey."*
 
